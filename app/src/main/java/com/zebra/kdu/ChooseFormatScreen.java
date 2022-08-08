@@ -82,7 +82,6 @@ public class ChooseFormatScreen extends ListActivity implements FinishInfo {
 	public static final int DIALOG_ABOUT = 1;
 	public static final int REQUEST_ENABLE_BT = 0;
 
-	/* Fields */
 	private BaseAdapter statusListAdapter;
 	private BaseAdapter spinnerAdapter;
 	private DiscoveredPrinterListAdapter discoveredPrinterListAdapter;

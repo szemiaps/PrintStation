@@ -78,6 +78,7 @@ import com.zebra.sdk.printer.discovery.UsbDiscoverer;
 
 public class ChooseFormatScreen extends ListActivity implements FinishInfo {
 	/*CONSTANTS*/
+	/*ad some more comment*/
 	public static final String APP_PREFERENCES_KEY = "PrintStationPreferences";
 	public static final int DIALOG_DISCOVERY = 0;
 	public static final int DIALOG_ABOUT = 1;

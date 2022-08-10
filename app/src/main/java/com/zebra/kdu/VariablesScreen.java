@@ -12,7 +12,7 @@
  * ALL RIGHTS RESERVED
  ***********************************************/
 package com.zebra.kdu;
-
+/*Imports*/
 import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.HashMap;

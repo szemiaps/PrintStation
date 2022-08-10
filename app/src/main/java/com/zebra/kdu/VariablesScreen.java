@@ -65,7 +65,8 @@ import com.zebra.sdk.printer.discovery.DiscoveredPrinter;
 import com.zebra.sdk.printer.discovery.DiscoveredPrinterUsb;
 
 public class VariablesScreen extends Activity implements FinishInfo {
-	
+
+	/*fields*/
     private String formatName;
     private DiscoveredPrinter formatPrinter;
     private String formatLocation;
